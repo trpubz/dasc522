@@ -15,6 +15,16 @@ Week | Topic
 10	| DoD Case Studies
 
 ## Classical Supervised Learning
+### Topics
+- Regression Review
+- Classification
+- Overview of tree-based regression & classification
+
+### Reading
+- Defense Innovation Board 
+- AI Principles
+- ISLR Ch 3/4/8
+- HOML Ch 6
 
 ## Resources
 - HOML JNB Viewer
