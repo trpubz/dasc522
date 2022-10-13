@@ -16,4 +16,10 @@ Week | Topic
 
 ## Classical Supervised Learning
 
+## Resources
+HOML JNB Viewer
+- https://nbviewer.org/github/ageron/handson-ml3/blob/main/index.ipynb
+HOML github repo
+- https://github.com/ageron/handson-ml3
+
 
